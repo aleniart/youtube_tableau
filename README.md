@@ -8,7 +8,7 @@ The dashboard was made using the Tableau tool.
 
 A preview of the dashboard below:
 
-![YT dashboard](YT.png)>
+![YT dashboard](YT.png)
 
 ### Data Sources
 
